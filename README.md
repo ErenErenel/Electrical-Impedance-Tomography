@@ -12,7 +12,7 @@ This repository contains the MATLAB code used to generate the simulations and fi
 
 ## Reproducing the figures
 
-1. Install [EIDORS](https://eidors3d.sourceforge.net/download.shtml) and add it to your MATLAB path. :contentReference[oaicite:2]{index=2}  
+1. Install [EIDORS](https://eidors3d.sourceforge.net/download.shtml) and add it to your MATLAB path.
 2. Run `humanthorax.m` to generate the baseline thorax + lungs simulations.
 3. Run `Sensitivity Measurements/granuloma.m` and `justlungs.m` to simulate the granuloma and baseline cases.
 4. Run `Sensitivity Measurements/voltagedifference.m` to compute and plot ΔV and ranked measurements.
