@@ -10,7 +10,7 @@ This repository contains the MATLAB code used to generate the simulations and fi
 - `Sensitivity Measurements/voltagedifference.m` – Computes ΔV between baseline and granuloma cases and ranks the most sensitive measurements.
 - `.gitignore` – Excludes OS and temporary files from version control.
 
-## Reproducing the figures in the report `Electrical Impedance Tomography` 
+**Reproducing the figures in the report** `Electrical Impedance Tomography.pdf`
 
 1. Install [EIDORS](https://eidors3d.sourceforge.net/download.shtml) and add it to your MATLAB path.
 2. Run `humanthorax.m` to generate the baseline thorax + lungs simulations.
